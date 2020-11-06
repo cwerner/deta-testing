@@ -1,2 +1,2 @@
 # deta-testing
-Testing the data micro service
+Testing the [deta micro service](https://www.deta.sh). Following along the FastAPI tutorial...
